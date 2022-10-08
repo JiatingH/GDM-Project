@@ -7,7 +7,7 @@ library(Hmisc)
 args=commandArgs(T)
 
 data = read.table(args[1], sep = ',',header =1,row.names =1)
-tab = read.table(args[2],sep = ',',header =0, row.names =1)
+tab = read.table(args[2],sep = ',',header = 1, row.names =1)
 
 
 type = tab[,1][!duplicated(tab[,1])]
