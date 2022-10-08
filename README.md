@@ -2,7 +2,7 @@
 R codes summary of paper: Integrative Metagenomic  and Metabolomic Analysis Reveal Gut Microbiota-Derived Multiple Hits Connected to Development of Gestational Diabetes Mellitus in Humans
 
 
-Main Packages used in this project are as follows:
+Main packages used in this project are as follows:
 
 Vegan	2.5-7	https://github.com/vegandevs/vegan/releases 
 
