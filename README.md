@@ -1,18 +1,5 @@
 # GDM-Project
-R codes summary of paper: Integrative Metagenomic  and Metabolomic Analysis Reveal Gut Microbiota-Derived Multiple Hits Connected to Development of Gestational Diabetes Mellitus in Humans
-
-
-Main packages used in this project are as follows:
-
-Vegan	2.5-7	https://github.com/vegandevs/vegan/releases 
-
-Selbal 0.1 https://github.com/malucalle/selbal 
-
-Spls	2.2-3	https://cran.r-project.org/web/packages/spls/index.html 
-
-PAPi	1.26.0 https://www.bioconductor.org/packages//2.12/bioc/html/PAPi.html 
-
-Shapper	0.1.3 https://cran.r-project.org/web/packages/shapper/index.html 
+Code summary of paper: Integrative Metagenomic  and Metabolomic Analysis Reveal Gut Microbiota-Derived Multiple Hits Connected to Development of Gestational Diabetes Mellitus in Humans
 
 
 
@@ -34,3 +21,14 @@ If you find these codes are useful in your project, please consider to cite the 
 
 
 
+Main packages used in this project are as follows:
+
+Vegan	2.5-7	https://github.com/vegandevs/vegan/releases 
+
+Selbal 0.1 https://github.com/malucalle/selbal 
+
+Spls	2.2-3	https://cran.r-project.org/web/packages/spls/index.html 
+
+PAPi	1.26.0 https://www.bioconductor.org/packages//2.12/bioc/html/PAPi.html 
+
+Shapper	0.1.3 https://cran.r-project.org/web/packages/shapper/index.html 
