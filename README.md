@@ -25,7 +25,9 @@ If you find these codes are useful in your project, please consider to cite the 
 
 Main packages used in this project are as follows:
 
-Vegan	2.5-7	https://github.com/vegandevs/vegan/releases 
+Vegan	2.5-7	https://github.com/vegandevs/vegan/releases
+
+igraph 1.3.5 https://cran.r-project.org/web/packages/igraph/index.html
 
 Selbal 0.1 https://github.com/malucalle/selbal 
 
