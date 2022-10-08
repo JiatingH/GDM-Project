@@ -11,6 +11,7 @@ library(impute)
 library(spls)
 library(mice)
 library(vegan)
+library(corrplot)
 
 # data for analysis
 args = commandArgs(T)
