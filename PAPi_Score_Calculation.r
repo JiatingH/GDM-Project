@@ -24,5 +24,5 @@ name_data = data.frame(name = rownames(data.for.papi))
 papi.df = cbind(name_data,data.for.papi)
 papi.data = data.frame(papi.df,stringsAsFactors = FALSE)
 print(papi.data)
-#papi(papi.data, save = TRUE, folder = '/home/jiating/PAPi') #folder = 'the path you want to save your data'
+papi(papi.data, save = TRUE, folder = '/home/jiating/PAPi') #folder = 'the path you want to save your data'
 
