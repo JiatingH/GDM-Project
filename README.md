@@ -10,7 +10,7 @@ This is a R code record for GDM project
 
 3. PAPi_Score_Calculation.r is for calculation of PAPi Activity Score of metabolic pathways based on the metabolites abundance.
 
-4. Bootstrap_Network_Analysis.r is for the bootstrap the samples in GDM and NGT groups. Then using the bootstrap tables, we constructed 100 subnetworks for two groups respectively and compared their network constructions.
+4. Bootstrap_Network_Analysis.r is for the bootstrapping the samples in GDM and NGT groups. Then using the bootstrapped tables, we constructed 100 subnetworks for two groups respectively and compared their network constructions.
 
 5. RF_model_and_SHAP.r is used to build the RF model based on species relative abundance and apply SHAP to calculate the importance score of the species in the predicting the metabolic pathway.
 
